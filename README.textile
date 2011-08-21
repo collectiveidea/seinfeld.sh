@@ -16,6 +16,14 @@ bc. Last login: Sat Aug 20 23:19:43 on ttys002
 Last OSS Commit: 2011-08-21
 $ brian:
 
+h2. Improvements
+
+# some sort of caching (if the date hasn't changed, don't fetch)
+# improved response parsing and cleaning (my first time using @sed@ or @awk@, it all feels a bit kludgy to me)
+# install/setup process
+# include streaks in output
+# groups parsing
+
 h2. Contributing
 
 In the spirit of "free software":http://www.fsf.org/licensing/essays/free-sw.html, *everyone* is encouraged to help improve this project.
