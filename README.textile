@@ -1,16 +1,17 @@
 h1. seinfeld.sh
 
-Inspired by Terminal outputting the last login date, seinfeld.sh shows the date of your last open source contribution as tracked by "Calendar About Nothing":http://calendaraboutnothing.com/.
+Inspired by Terminal outputting the last login date, seinfeld.sh shows the date
+of your last open source contribution as tracked by "Calendar About Nothing":http://calendaraboutnothing.com/.
 
 h2. Setup
 
 * "Authorize Calendar About Nothing":http://calendaraboutnothing.com/edit (if you haven't already).
 * export your github username to the github_username variable
-** @export github_username="bryckbost"@
-** source the script so it gets called when you open terminal
+** @export github_username="your_github_username"@
+* source the script in your bash so it gets called when you open a terminal
 
 h2. Example Output
 
-  Last login: Sat Aug 20 23:19:43 on ttys002
-  Last OSS Commit: 2011-08-21
-  brian:
+bc. Last login: Sat Aug 20 23:19:43 on ttys002
+Last OSS Commit: 2011-08-21
+$ brian:
