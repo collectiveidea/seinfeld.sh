@@ -15,3 +15,58 @@ h2. Example Output
 bc. Last login: Sat Aug 20 23:19:43 on ttys002
 Last OSS Commit: 2011-08-21
 $ brian:
+
+h2. Contributing
+
+In the spirit of "free software":http://www.fsf.org/licensing/essays/free-sw.html, *everyone* is encouraged to help improve this project.
+
+Here are some ways *you* can contribute:
+
+* using alpha, beta, and prerelease versions
+* reporting bugs
+* suggesting new features
+* writing or editing documentation
+* writing specifications
+* writing code (**no patch is too small**: fix typos, add comments, clean up inconsistent whitespace)
+* refactoring code
+* closing "issues":https://github.com/bryckbost/seinfeld.sh/issues
+* reviewing patches
+
+h3. Submitting an Issue
+
+We use the "GitHub issue tracker":https://github.com/bryckbost/seinfeld.sh/issues) to track bugs
+and features. Before submitting a bug report or feature request, check to make sure it hasn't already
+been submitted. You can indicate support for an existing issuse by voting it up. When submitting a
+bug report, please include a "Gist":https://gist.github.com/ that includes a stack trace and any
+details that may be necessary to reproduce the bug, including your gem version, Ruby version, and
+operating system. Ideally, a bug report should include a pull request with failing specs.
+
+h3. Submitting a Pull Request
+
+1. Fork the project.
+2. Implement your feature or bug fix.
+3. Commit and push your changes.
+4. Submit a pull request. Please do not include changes to the gemspec, version, or history file.
+
+h2. Copyright
+
+Copyright © 2011 Brian Ryckbost
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
