@@ -5,9 +5,9 @@ Inspired by Terminal outputting the last login date, seinfeld.sh shows the date 
 h2. Installation and Setup
 
 * "Authorize Calendar About Nothing":http://calendaraboutnothing.com/edit (if you haven't already).
-* export your github username to the github_username variable
-** @export github_username="your_github_username"@
-* source the script in your bash so it gets called when you open a terminal
+* Source the script in your bash so it gets called when you open a terminal.
+
+If you use GitHub, you're all set. seinfeld.sh looks for your GitHub user name in ~/.gitconfig.
 
 h2. Example Output
 
