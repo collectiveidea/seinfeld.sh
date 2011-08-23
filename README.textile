@@ -18,7 +18,7 @@ $ brian:
 h2. Improvements
 
 # some sort of caching (if the date hasn't changed, don't fetch)
-# improved response parsing and cleaning (my first time using @sed@ or @awk@, it all feels a bit kludgy to me)
+# -improved response parsing and cleaning (my first time using @sed@ or @awk@, it all feels a bit kludgy to me)- Thanks to @laserlemon!
 # install/setup process (would love to have something better than download this file, put it here, source it from there)
 # include longest or current streak(s) in output
 # groups parsing (allow for seeing the last commit of a group of users)
